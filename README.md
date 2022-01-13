@@ -23,4 +23,6 @@ for 5 hours and i will try to add a auto account swap or a automatic register id
 
 if this breaks hmu on discord and i will try to fix and if the website patches it then its prob broke forever :(
 
+last updated on 1/12/2022
+
 zer0mania#4652
