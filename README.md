@@ -14,7 +14,10 @@ instructions on how to operate this bot:
 5. you can start using the tool by double clicking on the python script file or executing it from cmd and booting your site of choice
 
 additional info: so u dont bother me the chromedriver.exe might become outdated over a period of time
-so you can get it from https://chromedriver.chromium.org/downloads and just replace the one thats in the folder
+so you can get it from https://chromedriver.chromium.org/downloads and just replace the one thats in the folder and make sure that that the version is the same as the chrome version you have on your pc. A good rule of thumb is to download a version that is a version older, for example if the latest version of chrome driver is 98 then go with 97 
+
+(you dont have to read this lol) 
+since presumably i think they design it for the beta version for chrome so developers could automate their site and test if it works on the latest version of chrome and make changes accordingly. 
 
 also it works on most school websites and stuff and dont expect to shutdown google with this they have ddos protection ofc
 
